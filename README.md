@@ -40,8 +40,8 @@ Start the development server:
 npm run dev
 
 📸 Preview
+![Landing Page Preview](./assets/landing.png)
 
-(Add a screenshot or demo link here once deployed)
 
 💬 Author
 
