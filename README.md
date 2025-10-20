@@ -25,3 +25,29 @@ A modern, responsive landing page for **Emperior Bulls**, designed using **React
 Clone the repository:
 ```bash
 git clone https://github.com/tanmaykumar19/Landing_page.git
+
+Navigate into the project directory:
+```bash
+cd Landing_page
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+📸 Preview
+
+(Add a screenshot or demo link here once deployed)
+
+💬 Author
+
+Tanmay Kumar
+
+
+
+
+
