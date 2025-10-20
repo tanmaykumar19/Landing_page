@@ -1,0 +1,44 @@
+/* Default (desktop-first) */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Navbar / UI adjustments */
+.navbar {
+  font-size: 18px;
+  padding: 15px 30px;
+}
+
+/* Canvas full screen */
+canvas {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .navbar {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  canvas {
+    height: 80vh;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .navbar {
+    font-size: 14px;
+    padding: 8px 15px;
+  }
+
+  canvas {
+    height: 60vh;
+  }
+}
