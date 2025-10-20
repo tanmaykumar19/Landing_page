@@ -27,7 +27,7 @@ Clone the repository:
 git clone https://github.com/tanmaykumar19/Landing_page.git
 
 Navigate into the project directory:
-```bash
+
 cd Landing_page
 
 Install dependencies:
