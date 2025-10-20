@@ -20,6 +20,7 @@ A modern, responsive landing page for **Emperior Bulls**, designed using **React
 
 ---
 
+📸 Preview
 ![Landing Page Preview](./src/assets/landing.png)
 
 ## 📂 Project Setup
@@ -41,13 +42,12 @@ Start the development server:
 
 npm run dev
 
-📸 Preview
-![Landing Page Preview](./src/assets/landing.png)
-
-
-💬 Author
+```
+#💬 Author
 
 Tanmay Kumar
+
+
 
 
 
