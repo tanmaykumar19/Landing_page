@@ -20,6 +20,8 @@ A modern, responsive landing page for **Emperior Bulls**, designed using **React
 
 ---
 
+![Landing Page Preview](./src/assets/landing.png)
+
 ## 📂 Project Setup
 
 Clone the repository:
